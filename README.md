@@ -1,4 +1,4 @@
-## Hi, I's Jorge 👋
+## Hi, I'm Jorge 👋
 ````js
 const thai = {
   pronouns: "he" | "his",
