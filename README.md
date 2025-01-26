@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I's Jorge 👋
+````js
+const thai = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Styled-Components, Docker],
+  
 
 <!--
 **Jorgito-cc/Jorgito-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
